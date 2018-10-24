@@ -1,0 +1,31 @@
+{
+    "data": [{
+            "id": "1",
+            "img": "../../../assets/img/electrica.jpg",
+            "name": "Electrica",
+            "size": "Aro 27",
+            "price": "$450.000"
+        },
+        {
+            "id": "2",
+            "img": "../../../assets/img/fixie.jpg",
+            "name": "Fixie",
+            "size": "Aro 29",
+            "price": "$320.000"
+        },
+        {
+            "id": "3",
+            "img": "../../../assets/img/paseo.jpg",
+            "name": "Paseo",
+            "size": "Aro 28",
+            "price": "$170.000"
+        },
+        {
+            "id": "4",
+            "img": "../../../assets/img/urbana.jpg",
+            "name": "Urbana",
+            "size": "Aro 29",
+            "price": "$280.000"
+        }
+    ]
+}

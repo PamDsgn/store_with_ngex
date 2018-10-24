@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css?family=Rye';
+.navbar-brand {
+    font-family: 'Rye', cursive;
+    font-size: 30px;
+}
+
+.bg-dark {
+    background-color: #000!important;
+}
+
+.container {
+    padding: 0;
+}

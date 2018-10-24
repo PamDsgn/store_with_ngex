@@ -1,0 +1,11 @@
+<div class="homeBanner">
+    <img src="../../../assets/img/banner2.jpg" alt="">
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-3" *ngFor="let bici of ngex.state.productos">
+            <app-card [name]="bici.name" [img]="bici.img" [price]="bici.price"></app-card>
+        </div>
+    </div>
+</div>
